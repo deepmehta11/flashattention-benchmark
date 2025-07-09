@@ -1,0 +1,5 @@
+torch
+transformers
+flash-attn==2.8.0.post2
+accelerate
+bitsandbytes
